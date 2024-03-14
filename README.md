@@ -2,7 +2,7 @@
 
 A calculator CLI with basic operators.
 
-## Take the Quiz
+## Run the calculator
 
 ```
 npx @neha.dev/calculator
