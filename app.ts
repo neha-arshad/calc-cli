@@ -35,9 +35,6 @@ console.log(`
 // call function 
 await wellcome();
 
-// jo calculator wala console.log hy wo pehlay hy
-// phir welcome wala function invoke hua hy clear?gsah
-
 async function Ask_question() {
 
 
